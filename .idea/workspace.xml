@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8956ab8a-fe84-472c-bbfb-82b59a0f6238" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/basic_syntax_more_exercises/sum_of_a_beach.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists_advanced/lists_advanced_lab/no vowels.py" beforeDir="false" afterPath="$PROJECT_DIR$/lists_advanced/lists_advanced_lab/no vowels.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_syntax_more_exercises/sum_of_a_beach.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_syntax_more_exercises/sum_of_a_beach.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,6 +181,11 @@
           <url>file://$PROJECT_DIR$/basic_syntax_more_exercises/sum_of_a_beach.py</url>
           <line>13</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/basic_syntax_more_exercises/sum_of_a_beach.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
